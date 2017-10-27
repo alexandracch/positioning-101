@@ -1,0 +1,16 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.contenedor {
+  background-color: rgb(232,250,102);
+}
+
+body {
+  background-color: rgb(250,102,226);
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
